@@ -20,7 +20,7 @@ Ex-Cloudwise, Ex-Intfocus. Building the bridge between AI capabilities and enter
 
 - 🏭 **Enterprise AIOps** — Led AIOps platform delivery for China Telecom (31 provinces), China Mobile, UnionPay, Shanghai Hongqiao Airport
 - 🤖 **AI in Production** — Built fault-diagnosis Agent prototypes (MCP + LLM) that went into production validation
-- 🛠️ **CLI Toolsmith** — 84+ system commands for macOS efficiency: alias mgmt, web2md, git workflows, LLM orchestration, document processing
+- 🛠️ **CLI Toolsmith** — 84 system commands for macOS efficiency: alias mgmt, web2md, git workflows, LLM orchestration, document processing
 - 🧪 **Agent Engineering** — Daily driver of Hermes Agent, Claude Code, Trae, Cursor. Building agent-native workflows.
 - 🗣️ **Team Enablement** — 13+ morning talks, company lecturer, industry summit speaker
 
@@ -30,22 +30,39 @@ Ex-Cloudwise, Ex-Intfocus. Building the bridge between AI capabilities and enter
 
 | Project | Client | Period | Scale |
 |:--------|:-------|:------:|:-----:|
-| AIOps Smart Ops Platform | China Telecom | 2023–2026 | 31 provinces, 1100+ APIs |
+| AIOps Smart Ops Platform | China Telecom | 2023–2026/05 | 31 provinces, 1100+ APIs |
 | Cloud-Network Unified Ops | China Mobile Research | 2024–2025 | National platform |
 | Data Ops Platform | UnionPay (Cloud Flash Pay) | 2020–2022 | 100B+ daily transactions |
 | Smart Ops Visualization | Shanghai Hongqiao Airport | 2023–2025 | 257 server rooms, 2000+ devices |
 
 ### CLI Ecosystem — `script-miner`
 
-80+ system commands under `~/.local/bin/` — my daily drivers:
+84 system commands under `~/.local/bin/` — my daily drivers:
 
 | Category | Tools |
 |:---------|:------|
-| 🧠 **LLM** | `llmer` (multi-model manager), `openclaw-manager`, `mcp-manager` |
-| 📄 **Doc** | `web2md` (#1 most used, 140+/month), `feishu-cli`, `evernoter`, `md2word` |
+| 🧠 **LLM** | `hermes-manager` (agent config mgmt), `llmer` (multi-model), `openclaw-manager`, `mcp-manager` |
+| 📄 **Doc** | `web2md` (#1 most used, **425 calls**), `feishu-cli`, `evernoter`, `md2word` |
 | 🔧 **Dev** | `hermer` (Hermes shortcuts), `git-cloner`, `git-commiter`, `pip-checker` |
 | 🏃 **Life** | `diary`, `weekly-miner`, `daily-report`, `train-timetabler` |
 | 🖥️ **Mac** | `macosx-manager`, `brew-manager`, `ssl-manager`, `alias-analyze` |
+
+**Usage Heatmap — Top 10 Most Frequent**
+
+| Rank | Alias | Calls | Category |
+|:----:|:------|:-----:|:---------|
+| 1 | `web2md` | 425 | 📄 Doc |
+| 2 | `hermes-manager` | 144 | 🧠 LLM |
+| 3 | `favorite-manager` | 42 | 🖥️ Mac |
+| 4 | `git-cloner` | 24 | 🔧 Dev |
+| 5 | `tool-nav-manager` | 18 | 🔧 Dev |
+| 6 | `openclaw-manager` | 15 | 🧠 LLM |
+| 7 | `skill-manager` | 15 | 🔧 Dev |
+| 8 | `script-manager` | 14 | 🔧 Dev |
+| 9 | `git-commiter` | 13 | 🔧 Dev |
+| 10 | `secret-manager` | 9 | 🔧 Dev |
+
+> 📊 Total tracked: 719 calls across all tools. `web2md` is the #1 daily driver with 425 calls.
 
 ### AI Agent Stack
 
@@ -72,10 +89,11 @@ Feishu-CLI:    Enterprise comms automation
 
 ## What I'm Doing Now
 
-- 🤖 **Agent Engineering Deep Dive** — Exploring Hermes Agent, OpenClaw ecosystem, agent-native dev workflows
+- 🤖 **Agent Engineering** — Deep dive into Hermes Agent, MCP protocol, agent-native dev workflows & orchestration
 - 🛠️ **Tool building** — Daily CLI automation with script-miner; "if I do it twice, I script it"
-- 📖 **Learning** — MCP protocol, LLM serving (vLLM), agent orchestration patterns
-- 🏃 **Running** — Marathons keep the long-haul mindset sharp
+- 🎯 **FDE / Solutions Arch** — Preparing for enterprise product design & solution architecture challenges
+- 📖 **Learning** — LLM serving (vLLM), agent orchestration patterns, security architecture
+- 🏃 **Running** — 5K/10K keeps the long-haul mindset sharp
 
 ## Connect
 
@@ -90,13 +108,12 @@ Feishu-CLI:    Enterprise comms automation
 ### Philosophy
 
 > **"Ship beats perfect — but in enterprise, reliability beats speed."**
->
-> I build tools to solve my own problems, then share them. 14 years in the trenches taught me that the best architecture is the one that runs in production. Whether it's an AIOps platform covering 31 provinces or a tiny shell alias that saves 3 seconds a day — if it works, it matters.
+> I build tools to solve my own problems, then share them. 14 years taught me the best architecture is the one that runs in production.
 
 <details>
 <summary>Random Facts</summary>
 
-- 🏃 Ran marathons — "long-distance pace" is my career philosophy
+- 🏃 5K/10K runner — staying consistent keeps the pace
 - 🐶 My Hermes Agent persona is IRIS, a Pomeranian-built AI assistant
 - 🎨 Design taste: Cobalt blue + golden yellow (The Truman Show vibes)
 - 🏗️ Started as a solo dev, scaled teams to 20+, then moved to presales — seen both sides of the table
