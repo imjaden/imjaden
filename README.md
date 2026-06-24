@@ -1,5 +1,12 @@
 # Hi, I'm Jaden 👋
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imjaden/imjaden/main/assets/banner-dark.svg">
+    <img alt="Jaden Banner" src="https://raw.githubusercontent.com/imjaden/imjaden/main/assets/banner-light.svg" width="100%">
+  </picture>
+</p>
+
 📍 **Shanghai** | 🏗️ **Solutions Architect** | 🚀 **14yrs: 8 Dev + 6 Presales**
 
 Ex-Cloudwise, Ex-Intfocus. **Building the bridge between AI capabilities and enterprise production.**
@@ -15,12 +22,12 @@ Ex-Cloudwise, Ex-Intfocus. **Building the bridge between AI capabilities and ent
 
 > Bring AI from demo to production in enterprise environments.
 
-- 🏭 **Enterprise AIOps** — Led AIOps platform delivery for China Telecom (31 provinces), China Mobile, UnionPay, Shanghai Hongqiao Airport
-- 🤖 **AI in Production** — Built fault-diagnosis Agent prototypes (MCP + LLM) that went into production validation
 - 🔓 **Open Source** — Building hands-on AI tools: LLM Radar (auto intelligence dashboard), Agent Loop framework, http-server-cli
-- 🛠️ **CLI Toolsmith** — 84 system commands for macOS efficiency: alias mgmt, web2md, git workflows, LLM orchestration, document processing
 - 🧪 **Agent Engineering** — Daily driver of Hermes Agent, Claude Code, Trae, Cursor. Building agent-native workflows and custom agent frameworks.
+- 🛠️ **CLI Toolsmith** — 84 system commands for macOS efficiency: alias mgmt, web2md, git workflows, LLM orchestration, document processing
 - 🗣️ **Team Enablement** — 13+ morning talks, company lecturer, industry summit speaker
+- 🤖 **AI in Production** — Built fault-diagnosis Agent prototypes (MCP + LLM) that went into production validation
+- 🏭 **Enterprise AIOps** — Led AIOps platform delivery for China Telecom (31 provinces), China Mobile, UnionPay, Shanghai Hongqiao Airport
 
 ## Projects & Tools
 
@@ -97,7 +104,7 @@ Feishu-CLI:      Enterprise comms automation
 - 🤖 **Building Agent Loop Lab** — Custom Think→Act→Observe→Verify framework with auto-verifier and checkpoint resume
 - 📡 **Running LLM Radar** — Daily 7-source AI intelligence feed with automated MCP data pipeline
 - 🛠️ **Growing script-miner** — 84 CLI commands, 719 tracked calls; "if I do it twice, I script it"
-- 🎯 **FDE / Solutions Arch** — Preparing for enterprise product design & solution architecture challenges
+- 🎯 **FDE / Solutions Arch** — Solving enterprise product & solution architecture challenges hands-on
 - 🏃 **Running** — 5K/10K keeps the long-haul mindset sharp
 
 ## Connect
