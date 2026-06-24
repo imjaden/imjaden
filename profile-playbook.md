@@ -134,22 +134,12 @@
 | 人物 | GitHub | 定位 | Profile 特点 |
 |:-----|:-------|:-----|:-------------|
 | **Andrej Karpathy** | [@karpathy](https://github.com/karpathy) | 前 Tesla AI 总监、OpenAI 创始成员 | 极简风，靠 repo 质量说话，无需花哨装饰 |
-| **Lex Fridman** | [@lexfridman](https://github.com/lexfridman) | MIT 研究员、Podcast 主理人 | README 简洁，突出研究 + 播客 |
-| **Fei-Fei Li** | [@drfeifeili](https://github.com/drfeifeili) | Stanford 教授、ImageNet 发起人 | 学术风格，突出 lab 和论文 |
-| **Yann LeCun** | [@yannlecun](https://github.com/yannlecun) | Meta AI 首席科学家、图灵奖得主 | 极简，内容少但身份标识明确 |
-| **Andrew Ng** | [@andrewng](https://github.com/andrewng) | DeepLearning.AI 创始人、Coursera 联合创始人 | 教育导向，突出课程和社区 |
-| **Jim Fan** | [@jimfan-ai](https://github.com/jimfan-ai) | NVIDIA 高级研究科学家 | 突出 Embodied AI 和仿真研究 |
-| **Kelsey Hightower** | [@kelseyhightower](https://github.com/kelseyhightower) | 前 Google Cloud 开发者 advocate | 极简标杆，一个 README 撑起整个 Profile |
-| **Sindre Sorhus** | [@sindresorhus](https://github.com/sindresorhus) | 开源高产户（300+ 项目） | Badge 流，突出生态影响力 |
 
 ### 从他们身上学什么
 
 | 人物 | 可借鉴的点 |
 |:-----|:----------|
 | karpathy | 项目质量 > Profile 装饰。做一个足够好的开源项目，Profile 自然有说服力 |
-| kelseyhightower | 少即是多。README 只有几句话但人人都知道他是谁 |
-| sindresorhus | Badge 即品牌。用统一的 badge 风格建立个人辨识度 |
-| lexfridman | 跨平台联动（YouTube / Podcast / GitHub），内容矩阵互相导流 |
 
 ---
 

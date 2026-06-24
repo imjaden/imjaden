@@ -9,7 +9,7 @@
 
 📍 **Shanghai** | 🏗️ **Solutions Architect** | 🚀 **14yrs: 8 Dev + 6 Presales**
 
-Ex-Cloudwise, Ex-Intfocus. **Building the bridge between AI capabilities and enterprise production.**
+ex-Cloudwise, Intfocus. **Building the bridge between AI capabilities and enterprise production.**
 
 ![Hermes Agent](https://img.shields.io/badge/-Hermes_Agent-7B2FF7?style=flat-square&logo=robot&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-3572A5?style=flat-square&logo=github&logoColor=white)
