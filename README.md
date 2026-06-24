@@ -11,8 +11,6 @@ Ex-Cloudwise, Ex-Intfocus. **Building the bridge between AI capabilities and ent
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AIOps](https://img.shields.io/badge/-AIOps-FF6B6B?style=flat-square&logo=cloud&logoColor=white)
 
-![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaden&show_icons=true&theme=dark&hide=contribs,prs)
-
 ## What I Do
 
 > Bring AI from demo to production in enterprise environments.
@@ -26,18 +24,18 @@ Ex-Cloudwise, Ex-Intfocus. **Building the bridge between AI capabilities and ent
 
 ## Projects & Tools
 
-### Enterprise Delivery (Selected)
+### Past Enterprise Delivery
 
 | Project | Client | Period | Scale |
 |:--------|:-------|:------:|:-----:|
-| AIOps Smart Ops Platform | China Telecom | 2023–2026 | 31 provinces, 1100+ APIs |
+| AIOps Smart Ops Platform | China Telecom | 2023–2026/05 | 31 provinces, 1100+ APIs |
 | Cloud-Network Unified Ops | China Mobile Research | 2024–2025 | National platform |
 | Data Ops Platform | UnionPay (Cloud Flash Pay) | 2020–2022 | 100B+ daily transactions |
 | Smart Ops Visualization | Shanghai Hongqiao Airport | 2023–2025 | 257 server rooms, 2000+ devices |
 
 ### CLI Ecosystem — `script-miner`
 
-84 system commands under my daily drivers:
+84 system commands under `~/.local/bin/` — my daily drivers:
 
 | Category | Tools |
 |:---------|:------|
@@ -84,12 +82,15 @@ Feishu-CLI:      Enterprise comms automation
 - 🏛️ **[Cloudwise Archive](https://cloudwise.archived.jaden.tech)** — FDE-targeted solution portfolio
 - 🏗️ **[Intfocus Archive](https://intfocus.archived.jaden.tech)** — Full-stack dev journey
 
-## Certifications
+<details>
+<summary>Certifications</summary>
 
 ![系统架构设计师](https://img.shields.io/badge/-系统架构设计师（软高）-E43921?style=flat-square)
 ![PMP](https://img.shields.io/badge/-PMP-009639?style=flat-square&logo=pmi&logoColor=white)
 ![PMI-ACP](https://img.shields.io/badge/-PMI--ACP-0085CA?style=flat-square)
 ![ITIL4](https://img.shields.io/badge/-ITIL4_Foundation-003B71?style=flat-square)
+
+</details>
 
 ## What I'm Doing Now
 
@@ -101,11 +102,7 @@ Feishu-CLI:      Enterprise comms automation
 
 ## Connect
 
-[![jaden.tech](https://img.shields.io/badge/-jaden.tech-000000?style=flat-square&logo=safari&logoColor=white)](https://www.jaden.tech)
-[![GitHub](https://img.shields.io/badge/-@imjaden-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imjaden)
-[![Gitee](https://img.shields.io/badge/-@imjaden-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/imjaden)
-[![Email](https://img.shields.io/badge/-jaden.li@jaden.tech-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaden.li@jaden.tech)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%BF%8A%E6%9D%B0-%E6%9D%8E-132916283/)
+[![jaden.tech](https://img.shields.io/badge/-jaden.tech-000000?style=flat-square&logo=safari&logoColor=white)](https://www.jaden.tech) [![GitHub](https://img.shields.io/badge/-@imjaden-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imjaden) [![Gitee](https://img.shields.io/badge/-@imjaden-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/imjaden) [![Email](https://img.shields.io/badge/-jaden.li@jaden.tech-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jaden.li@jaden.tech) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%BF%8A%E6%9D%B0-%E6%9D%8E-132916283/)
 
 ---
 
