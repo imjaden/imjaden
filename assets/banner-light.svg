@@ -22,10 +22,6 @@
   <line x1="40" y1="30" x2="300" y2="30" stroke="#1e3a5f" stroke-width="2" stroke-opacity="0.15"/>
   <circle cx="310" cy="30" r="3" fill="#1e3a5f" fill-opacity="0.3"/>
 
-  <!-- Decorative line bottom -->
-  <line x1="40" y1="170" x2="250" y2="170" stroke="#0891b2" stroke-width="1.5" stroke-opacity="0.15"/>
-  <circle cx="260" cy="170" r="2" fill="#0891b2" fill-opacity="0.3"/>
-
   <!-- Geometric accent - right side -->
   <rect x="880" y="30" width="80" height="80" rx="4" fill="none" stroke="#1e3a5f" stroke-width="1" stroke-opacity="0.1"/>
   <rect x="890" y="40" width="60" height="60" rx="3" fill="none" stroke="#0891b2" stroke-width="1" stroke-opacity="0.08"/>
@@ -49,7 +45,7 @@
 
   <!-- Tag -->
   <rect x="40" y="155" width="250" height="22" rx="4" fill="none" stroke="#1e3a5f" stroke-width="1" stroke-opacity="0.25"/>
-  <text x="80" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1e3a5f" fill-opacity="0.5">
+  <text x="80" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1e3a5f" fill-opacity="0.5" text-anchor="none">
     Enterprise AI · Agent Engineering
   </text>
 </svg>
