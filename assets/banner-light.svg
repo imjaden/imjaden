@@ -39,7 +39,7 @@
 
   <!-- Main title -->
   <text x="40" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="700" fill="#1e3a5f" letter-spacing="0.5">
-    AI from demo to production
+    AI from Demo to Production
   </text>
 
   <!-- Subtitle -->
@@ -48,8 +48,8 @@
   </text>
 
   <!-- Tag -->
-  <rect x="40" y="155" width="120" height="22" rx="4" fill="none" stroke="#1e3a5f" stroke-width="1" stroke-opacity="0.25"/>
-  <text x="100" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1e3a5f" fill-opacity="0.5" text-anchor="middle">
+  <rect x="40" y="155" width="250" height="22" rx="4" fill="none" stroke="#1e3a5f" stroke-width="1" stroke-opacity="0.25"/>
+  <text x="80" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#1e3a5f" fill-opacity="0.5">
     Enterprise AI · Agent Engineering
   </text>
 </svg>
