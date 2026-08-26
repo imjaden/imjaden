@@ -1,0 +1,16 @@
+project: imjaden
+website: https://github.com/imjaden
+profiles:
+- name: dev
+- name: ops
+- name: review
+sessions:
+- role: ops
+  profile: ops
+  title: imjaden-ops
+- role: review
+  profile: review
+  title: imjaden-review
+- role: dev
+  profile: dev
+  title: imjaden-dev
