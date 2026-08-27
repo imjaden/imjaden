@@ -7,9 +7,12 @@
   </picture>
 </p>
 
-📍 **Shanghai** | 🏗️ **Solutions Architect** | 🚀 **14yrs: 8 Dev + 6 Presales**
+📍 **Shanghai** | 🏗️ **Solutions Architect / FDE** | 🚀 **14yrs: 8 Dev + 6 Presales**
 
-ex-Cloudwise, Intfocus. **Building the bridge between AI capabilities and enterprise production.**
+ex-Cloudwise, Intfocus.
+
+> ### 🏗️ **"Building the bridge between AI capabilities and enterprise production."**
+> 14 years on both sides — I turn LLM demos into systems that run in enterprise production.
 
 ![Hermes Agent](https://img.shields.io/badge/-Hermes_Agent-7B2FF7?style=flat-square&logo=robot&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/-OpenClaw-3572A5?style=flat-square&logo=github&logoColor=white)
@@ -28,6 +31,23 @@ ex-Cloudwise, Intfocus. **Building the bridge between AI capabilities and enterp
 - 🗣️ **Team Enablement** — 13+ morning talks, company lecturer, industry summit speaker
 - 🤖 **AI in Production** — Built fault-diagnosis Agent prototypes (MCP + LLM) that went into production validation
 - 🏭 **Enterprise AIOps** — Led AIOps platform delivery for China Telecom (31 provinces), China Mobile, UnionPay, Shanghai Hongqiao Airport
+
+## Certifications & Skills
+
+![系统架构设计师（软高）](https://img.shields.io/badge/-系统架构设计师（软高）-E43921?style=flat-square)
+![PMP](https://img.shields.io/badge/-PMP-009639?style=flat-square&logo=pmi&logoColor=white)
+![PMI-ACP](https://img.shields.io/badge/-PMI--ACP-0085CA?style=flat-square)
+![ITIL4](https://img.shields.io/badge/-ITIL4_Foundation-003B71?style=flat-square)
+
+## How I Work
+
+> Agent-native, human-gated. I run my own engineering through an AI agent pipeline — with a human at every checkpoint.
+
+- 🔄 **1A Closed-Loop** — 探讨 → 方案 → review → dev → 核查 → 审计 → 复盘;每步留证据,可回滚
+- 🚪 **Review Gate** — push 只由 review role 执行,PASS 才合入,审计留痕
+- 📋 **Draft-Driven** — 半自动实施先入 draft(READY);AI 不自我标记完成,用户「已核实」才闭环
+- 🤖 **Agent-Native** — Hermes Agent 多 profile(dev/ops/review)协同,串行调度、双机同步
+- 🧪 **Data Over Claims** — 每条能力都有可复跑证据:84 CLI / 719 calls / web2md 425 calls
 
 ## Projects & Tools
 
@@ -85,19 +105,10 @@ Feishu-CLI:      Enterprise comms automation
 - 🌐 **[jaden.tech](https://www.jaden.tech)** — Zero-dependency static site: smart cache, WeChat background generator, automated SSL
 - 🔄 **[Agent Loop Lab](https://agent-loop.lab.jaden.tech)** — Think→Act→Observe→Verify agent framework with interactive visualization
 - 📡 **[LLM Radar](https://llm-radar.lab.jaden.tech)** — Automated LLM intelligence dashboard (7 sources, 5 dimensions)
-- ⚡ **[http-server-cli](https://github.com/imjaden/http-server-cli)** — Zero-dependency HTTP server manager, `pip install` ready
+- ⚡ **[http-server.cli](https://http-server.cli.jaden.tech)** — Zero-dependency HTTP server manager, `pip install` ready
+- 🎨 **[html-gen.cli](https://html-gen.cli.jaden.tech)** — Template-driven static site generator
 - 🏛️ **[Cloudwise Archive](https://cloudwise.archived.jaden.tech)** — FDE-targeted solution portfolio
 - 🏗️ **[Intfocus Archive](https://intfocus.archived.jaden.tech)** — Full-stack dev journey
-
-<details>
-<summary>Certifications</summary>
-
-![系统架构设计师](https://img.shields.io/badge/-系统架构设计师（软高）-E43921?style=flat-square)
-![PMP](https://img.shields.io/badge/-PMP-009639?style=flat-square&logo=pmi&logoColor=white)
-![PMI-ACP](https://img.shields.io/badge/-PMI--ACP-0085CA?style=flat-square)
-![ITIL4](https://img.shields.io/badge/-ITIL4_Foundation-003B71?style=flat-square)
-
-</details>
 
 ## What I'm Doing Now
 
@@ -116,6 +127,14 @@ Feishu-CLI:      Enterprise comms automation
 ### Philosophy
 
 > **"Ship beats perfect — but in enterprise, reliability beats speed."**
+
+| 理念 | 实证 |
+|:-----|:-----|
+| 自动化优先 | script-miner 84 CLI / 719 calls,web2md 425 calls(私有,仅数据) |
+| 可靠性优先 | 电信 AIOps:31 省、1100+ API 生产交付 |
+| AI-native 工作流 | Hermes Agent 全流程 + 1A 闭环(见 How I Work) |
+| 工具即产品 | [http-server.cli](https://http-server.cli.jaden.tech)、[html-gen.cli](https://html-gen.cli.jaden.tech) — 零依赖、pip 可装 |
+
 > I build tools to solve my own problems, then share them. 14 years taught me the best architecture is the one that runs in production.
 
 <details>
