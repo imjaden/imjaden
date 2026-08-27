@@ -76,3 +76,26 @@ quality:
 
 ---
 ```
+
+---
+
+## 2026-08-27 — README 定位升级（SA/FDE + How I Work + certs + sites）
+
+- **review者**: review/imjaden-review (deepseek-v4-pro)
+- **范围**: c50ea18 chore@archived + 76143c1 docs@readme（决策 A3/B1/C1/D1/E1）
+- **Tracking**: ⬜ 无（零发现，无 SEC 编号）
+- **状态**: ✅ PASS
+- **报告**: ⬜ 无需生成（trivial green batch，跳过报告）
+- **实现 prompt**: ⬜ 无需生成（改动已实现于被评审 commit）
+
+### 发现摘要
+
+| # | 核查项 | 结果 |
+|---|--------|------|
+| 1 | Commit subject 格式 type@scope | ✅ 两个均合规 |
+| 2 | 备份先行 + archived sha 与修改前一致 | ✅ |
+| 3 | 无占位符 / 敏感信息 / 重复内容 | ✅ |
+| 4 | 新增站点可达（200） | ✅ 3/3 |
+| 5 | 定位行含 FDE + html-gen.cli 命名一致 | ✅ |
+
+---
