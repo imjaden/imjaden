@@ -103,12 +103,12 @@ Feishu-CLI:      Enterprise comms automation
 ### Personal Sites
 
 - 🌐 **[jaden.tech](https://www.jaden.tech)** — Zero-dependency static site: smart cache, WeChat background generator, automated SSL
-- 🔄 **[Agent Loop Lab](https://agent-loop.lab.jaden.tech)** — Think→Act→Observe→Verify agent framework with interactive visualization
-- 📡 **[LLM Radar](https://llm-radar.lab.jaden.tech)** — Automated LLM intelligence dashboard (7 sources, 5 dimensions)
-- ⚡ **[http-server.cli](https://http-server.cli.jaden.tech)** — Zero-dependency HTTP server manager, `pip install` ready
-- 🎨 **[html-gen.cli](https://html-gen.cli.jaden.tech)** — Template-driven static site generator
-- 🏛️ **[Cloudwise Archive](https://cloudwise.archived.jaden.tech)** — FDE-targeted solution portfolio
-- 🏗️ **[Intfocus Archive](https://intfocus.archived.jaden.tech)** — Full-stack dev journey
+- 🔄 **[Agent Loop#lab#](https://agent-loop.lab.jaden.tech)** — Think→Act→Observe→Verify agent framework with interactive visualization
+- 📡 **[LLM Radar#lab#](https://llm-radar.lab.jaden.tech)** — Automated LLM intelligence dashboard (7 sources, 5 dimensions)
+- ⚡ **[http-server#cli#](https://http-server.cli.jaden.tech)** — Zero-dependency HTTP server manager, `pip install` ready
+- 🎨 **[html-gen#cli#](https://html-gen.cli.jaden.tech)** — Template-driven static site generator
+- 🏛️ **[Cloudwise#archive#](https://cloudwise.archived.jaden.tech)** — FDE-targeted solution portfolio
+- 🏗️ **[Intfocus#archive#](https://intfocus.archived.jaden.tech)** — Full-stack dev journey
 
 ## What I'm Doing Now
 
