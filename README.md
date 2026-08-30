@@ -27,7 +27,7 @@ ex-Cloudwise, Intfocus.
 
 - 🔓 **Open Source** — Building hands-on AI tools: LLM Radar (auto intelligence dashboard), Agent Loop framework, http-server-cli
 - 🧪 **Agent Engineering** — Daily driver of Hermes Agent, Claude Code, Trae, Cursor. Building agent-native workflows and custom agent frameworks.
-- 🛠️ **CLI Toolsmith** — 84 system commands for macOS efficiency: alias mgmt, web2md, git workflows, LLM orchestration, document processing
+- 🛠️ **CLI Toolsmith** — 123+ system commands for macOS efficiency: alias mgmt, web2md, git workflows, LLM orchestration, document processing
 - 🗣️ **Team Enablement** — 13+ morning talks, company lecturer, industry summit speaker
 - 🤖 **AI in Production** — Built fault-diagnosis Agent prototypes (MCP + LLM) that went into production validation
 - 🏭 **Enterprise AIOps** — Led AIOps platform delivery for China Telecom (31 provinces), China Mobile, UnionPay, Shanghai Hongqiao Airport
@@ -47,7 +47,9 @@ ex-Cloudwise, Intfocus.
 - 🚪 **Review Gate** — push 只由 review role 执行,PASS 才合入,审计留痕
 - 📋 **Draft-Driven** — 半自动实施先入 draft(READY);AI 不自我标记完成,用户「已核实」才闭环
 - 🤖 **Agent-Native** — Hermes Agent 多 profile(dev/ops/review)协同,串行调度、双机同步
-- 🧪 **Data Over Claims** — 每条能力都有可复跑证据:84 CLI / 719 calls / web2md 425 calls
+- 🧪 **Data Over Claims** — 每条能力都有可复跑证据:123 wrappers / 55 aliases / ~1,600 commits in 30d
+- 🔁 **AI Loop at Scale** — 33 closed-loop tasks, 27 audits, 5.4K API calls, $7.43 total cost
+  (≈ $0.005 per commit — AI-assisted shipping at human-gated quality)
 
 ## Projects & Tools
 
@@ -62,32 +64,32 @@ ex-Cloudwise, Intfocus.
 
 ### CLI Ecosystem — `script-miner`
 
-84 system commands under `~/.local/bin/` — my daily drivers:
+123 wrappers + 55 aliases + 15 cli-registry commands under `~/.local/bin/` — my daily drivers:
 
 | Category | Tools |
 |:---------|:------|
 | 🧠 **LLM** | `hermes-manager` (agent config mgmt), `llmer` (multi-model), `openclaw-manager`, `mcp-manager` |
-| 📄 **Doc** | `web2md` (#1 most used, **425 calls**), `feishu-cli`, `evernoter`, `md2word` |
+| 📄 **Doc** | `web2md`, `feishu-cli`, `evernoter`, `md2word` |
 | 🔧 **Dev** | `hermer` (Hermes shortcuts), `git-cloner`, `git-commiter`, `pip-checker` |
 | 🏃 **Life** | `diary`, `weekly-miner`, `daily-report`, `train-timetabler` |
 | 🖥️ **Mac** | `macosx-manager`, `brew-manager`, `ssl-manager`, `alias-analyze` |
 
-**Usage Heatmap — Top 10 Most Frequent**
+**Usage Heatmap — Top 10 Manual (30 days)**
 
-| Rank | Alias | Calls | Category |
-|:----:|:------|:-----:|:---------|
-| 1 | `web2md` | 425 | 📄 Doc |
-| 2 | `hermes-manager` | 144 | 🧠 LLM |
-| 3 | `favorite-manager` | 42 | 🖥️ Mac |
-| 4 | `git-cloner` | 24 | 🔧 Dev |
-| 5 | `tool-nav-manager` | 18 | 🔧 Dev |
-| 6 | `openclaw-manager` | 15 | 🧠 LLM |
-| 7 | `skill-manager` | 15 | 🔧 Dev |
-| 8 | `script-manager` | 14 | 🔧 Dev |
-| 9 | `git-commiter` | 13 | 🔧 Dev |
-| 10 | `secret-manager` | 9 | 🔧 Dev |
+| Rank | Command | Calls (30d) |
+|:----:|:--------|:-----------:|
+| 1 | `hm` (hermes-manager) | 1,344 |
+| 2 | `draft` | 126 |
+| 3 | `dt` (daily-tracker) | 105 |
+| 4 | `pc` (personal-cinema) | 104 |
+| 5 | `hs` (http-server) | 100 |
+| 6 | `skills-manager` | 73 |
+| 7 | `git-cloner` | 42 |
+| 8 | `daily-checkin` | 38 |
+| 9 | `html-gen` | 36 |
+| 10 | `daily-checker` | 28 |
 
-> 📊 Total tracked: 719 calls across all tools. `web2md` is the #1 daily driver with 425 calls.
+> 📊 Manual terminal usage, last 30 days (zsh_history). AI-agent calls excluded.
 
 ### AI Agent Stack
 
@@ -114,7 +116,8 @@ Feishu-CLI:      Enterprise comms automation
 
 - 🤖 **Building Agent Loop Lab** — Custom Think→Act→Observe→Verify framework with auto-verifier and checkpoint resume
 - 📡 **Running LLM Radar** — Daily 7-source AI intelligence feed with automated MCP data pipeline
-- 🛠️ **Growing script-miner** — 84 CLI commands, 719 tracked calls; "if I do it twice, I script it"
+- 🛠️ **Growing script-miner** — 123 wrappers, 55 aliases; "if I do it twice, I script it"
+- 📈 **Shipping daily** — ~1,600+ commits across 10 repos in the last 30 days (AI-assisted)
 - 🎯 **FDE / Solutions Arch** — Solving enterprise product & solution architecture challenges hands-on
 - 🏃 **Running** — 5K/10K keeps the long-haul mindset sharp
 
@@ -130,7 +133,7 @@ Feishu-CLI:      Enterprise comms automation
 
 | 理念 | 实证 |
 |:-----|:-----|
-| 自动化优先 | script-miner 84 CLI / 719 calls,web2md 425 calls(私有,仅数据) |
+| 自动化优先 | script-miner 123 wrappers / 55 aliases(私有,仅数据) |
 | 可靠性优先 | 电信 AIOps:31 省、1100+ API 生产交付 |
 | AI-native 工作流 | Hermes Agent 全流程 + 1A 闭环(见 How I Work) |
 | 工具即产品 | [http-server.cli](https://http-server.cli.jaden.tech)、[html-gen.cli](https://html-gen.cli.jaden.tech) — 零依赖、pip 可装 |
